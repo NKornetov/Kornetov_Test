@@ -1,0 +1,6 @@
+10 inkey d$
+20 if d$='d' then print "Hi"
+פûגאפûגא
+dsdg
+
+sdfsdiafhsidhgiasdfg
